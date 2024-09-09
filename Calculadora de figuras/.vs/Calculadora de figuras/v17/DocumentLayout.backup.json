@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|c:\\users\\kevin\\desktop\\practica 1. tipos de datos abstractos\\calculadora de figuras\\calculadora de figuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|solutionrelative:calculadora de figuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\calculadora de figuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|solutionrelative:calculadora de figuras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\calculadora de figuras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|solutionrelative:calculadora de figuras\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\calculadora de figuras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|solutionrelative:calculadora de figuras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\calculadora de figuras\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|solutionrelative:calculadora de figuras\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\calculadora de figuras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|solutionrelative:calculadora de figuras\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\calculadora de figuras\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|solutionrelative:calculadora de figuras\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\calculadora de figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|solutionrelative:calculadora de figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\calculadora de figuras\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB35C9DA-03FB-431F-BEC3-9CD549F05F5E}|Calculadora de figuras\\Calculadora de figuras.csproj|solutionrelative:calculadora de figuras\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 126,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora de figuras\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Form1.cs [Design]",
+              "RelativeToolTip": "Calculadora de figuras\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:21:59.498Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Circulo.cs",
+              "RelativeDocumentMoniker": "Calculadora de figuras\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Circulo.cs",
+              "RelativeToolTip": "Calculadora de figuras\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:43:06.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Calculadora de figuras\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Form1.Designer.cs",
+              "RelativeToolTip": "Calculadora de figuras\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:19:04.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Calculadora de figuras\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Triangulo.cs",
+              "RelativeToolTip": "Calculadora de figuras\\Triangulo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:24:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Calculadora de figuras\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Cuadrado.cs",
+              "RelativeToolTip": "Calculadora de figuras\\Cuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:24:16.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Calculadora de figuras\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Rectangulo.cs",
+              "RelativeToolTip": "Calculadora de figuras\\Rectangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:24:03.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Figura.cs",
+              "RelativeDocumentMoniker": "Calculadora de figuras\\Figura.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Figura.cs",
+              "RelativeToolTip": "Calculadora de figuras\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:23:47.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora de figuras\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Program.cs",
+              "RelativeToolTip": "Calculadora de figuras\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:16:51.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculadora de figuras\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Practica 1. Tipos de datos abstractos\\Calculadora de figuras\\Calculadora de figuras\\Form1.cs",
+              "RelativeToolTip": "Calculadora de figuras\\Form1.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAIwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T23:26:28.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

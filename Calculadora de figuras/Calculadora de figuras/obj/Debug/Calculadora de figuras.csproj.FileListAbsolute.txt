@@ -1,0 +1,10 @@
+C:\Users\Kevin\Desktop\Practica 1. Tipos de datos abstractos\Calculadora de figuras\Calculadora de figuras\bin\Debug\Calculadora de figuras.exe.config
+C:\Users\Kevin\Desktop\Practica 1. Tipos de datos abstractos\Calculadora de figuras\Calculadora de figuras\bin\Debug\Calculadora de figuras.exe
+C:\Users\Kevin\Desktop\Practica 1. Tipos de datos abstractos\Calculadora de figuras\Calculadora de figuras\bin\Debug\Calculadora de figuras.pdb
+C:\Users\Kevin\Desktop\Practica 1. Tipos de datos abstractos\Calculadora de figuras\Calculadora de figuras\obj\Debug\Calculadora de figuras.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\Practica 1. Tipos de datos abstractos\Calculadora de figuras\Calculadora de figuras\obj\Debug\Calculadora_de_figuras.Form1.resources
+C:\Users\Kevin\Desktop\Practica 1. Tipos de datos abstractos\Calculadora de figuras\Calculadora de figuras\obj\Debug\Calculadora_de_figuras.Properties.Resources.resources
+C:\Users\Kevin\Desktop\Practica 1. Tipos de datos abstractos\Calculadora de figuras\Calculadora de figuras\obj\Debug\Calculadora de figuras.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\Practica 1. Tipos de datos abstractos\Calculadora de figuras\Calculadora de figuras\obj\Debug\Calculadora de figuras.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Practica 1. Tipos de datos abstractos\Calculadora de figuras\Calculadora de figuras\obj\Debug\Calculadora de figuras.exe
+C:\Users\Kevin\Desktop\Practica 1. Tipos de datos abstractos\Calculadora de figuras\Calculadora de figuras\obj\Debug\Calculadora de figuras.pdb
